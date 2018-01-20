@@ -1,3 +1,93 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 57 57" width="57" height="57"><defs><path d="M52 28.5C52 41.47 41.47 52 28.5 52C15.53 52 5 41.47 5 28.5C5 15.53 15.53 5 28.5 5C41.47 5 52 15.53 52 28.5Z" id="c1HgYg4x7D"></path><path d="M49 28.5C49 39.81 39.81 49 28.5 49C17.18 49 8 39.81 8 28.5C8 17.18 17.18 8 28.5 8C39.81 8 49 17.18 49 28.5Z" id="ajRothVBr"></path></defs><g><g><g><use xlink:href="#c1HgYg4x7D" opacity="1" fill="#6fdb6f" fill-opacity="1"></use></g><g><use xlink:href="#ajRothVBr" opacity="1" fill="#ffffff" fill-opacity="1"></use></g></g></g></svg>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   preserveAspectRatio="xMidYMid meet"
+   viewBox="0 0 57 57"
+   width="57"
+   height="57"
+   id="svg18"
+   sodipodi:docname="icon.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="E:\nodejs\JS Projects\OfficeTimer\icon.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1852"
+     inkscape:window-height="1057"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="4.1403509"
+     inkscape:cx="-8.815678"
+     inkscape:cy="28.5"
+     inkscape:window-x="60"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18" />
+  <defs
+     id="defs4">
+    <path
+       d="M52 28.5C52 41.47 41.47 52 28.5 52C15.53 52 5 41.47 5 28.5C5 15.53 15.53 5 28.5 5C41.47 5 52 15.53 52 28.5Z"
+       id="c1HgYg4x7D" />
+    <path
+       d="M49 28.5C49 39.81 39.81 49 28.5 49C17.18 49 8 39.81 8 28.5C8 17.18 17.18 8 28.5 8C39.81 8 49 17.18 49 28.5Z"
+       id="ajRothVBr" />
+  </defs>
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12.66808319;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     id="rect829"
+     width="57"
+     height="57"
+     x="2.323571e-008"
+     y="-2.6645353e-015" />
+  <g
+     id="g16">
+    <g
+       id="g14">
+      <g
+         id="g8">
+        <use
+           xlink:href="#c1HgYg4x7D"
+           opacity="1"
+           fill="#6fdb6f"
+           fill-opacity="1"
+           id="use6" />
+      </g>
+      <g
+         id="g12">
+        <use
+           xlink:href="#ajRothVBr"
+           opacity="1"
+           fill="#ffffff"
+           fill-opacity="1"
+           id="use10" />
+      </g>
+    </g>
+  </g>
+</svg>
