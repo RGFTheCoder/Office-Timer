@@ -7,6 +7,6 @@
 
 ## TODO
 
-- MAIN CORE
+- ---MAIN CORE---
 - PIE CHART
 - FRACTION TEXT
