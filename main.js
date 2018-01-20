@@ -50,6 +50,8 @@ for (let i = 0; i < sections.length; i++) {
 
 }
 
+var _ = prompt("Start");
+
 for (let i = 0; i < sections.length; i++) {
     sectionvis += "<p>Section #" + (i + 1) + " : " + sections[i] + " mins</p>";
 }
