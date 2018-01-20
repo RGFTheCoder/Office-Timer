@@ -91,5 +91,7 @@ function drawTimers() {
 setInterval(drawTimers, 1000);
 
 function skipSect() {
+    console.log(sections[currentSection + 1]);
+    sections[currentSection + 1] = sections[currentSection + 1] + ((tim.time - tim.i) / 60);
     tim.i = tim.time;
 }
