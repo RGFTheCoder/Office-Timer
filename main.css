@@ -21,3 +21,19 @@ svg {
     stroke-dashoffset: 0;
     transition: all 1s linear;
 }
+
+.circle_animation_total {
+    stroke-dasharray: 440;
+    /* this value is the pixel circumference of the circle */
+    stroke-dashoffset: 0;
+    transition: all 1s linear;
+}
+
+.button {
+    background: white;
+    transition: 0.2s;
+}
+
+.button:hover {
+    background: #e5e5e5;
+}
