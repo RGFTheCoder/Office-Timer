@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
@@ -39,17 +38,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="924"
-     inkscape:window-height="1048"
+     inkscape:window-width="1852"
+     inkscape:window-height="1057"
      id="namedview20"
      showgrid="false"
      inkscape:zoom="0.21376812"
-     inkscape:cx="-55.498875"
+     inkscape:cx="-813.32937"
      inkscape:cy="596.87302"
-     inkscape:window-x="61"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg18" />
+     inkscape:window-x="60"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18"
+     inkscape:object-paths="false" />
   <defs
      id="defs4">
     <path
@@ -59,34 +59,8 @@
        d="M921 1104C921 1269.58 786.57 1404 621 1404C455.43 1404 321 1269.58 321 1104C321 938.43 455.43 804 621 804C786.57 804 921 938.43 921 1104Z"
        id="dNxOdswH" />
   </defs>
-  <rect
-     style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.49383068;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-     id="rect829"
-     width="1242"
-     height="2208"
-     x="0"
-     y="-1.7053026e-013" />
-  <g
-     id="g8">
-    <use
-       xlink:href="#aLdUyFlb8"
-       id="use6"
-       style="opacity:1;fill:#6fdb6f;fill-opacity:1"
-       x="0"
-       y="0"
-       width="100%"
-       height="100%" />
-  </g>
-  <g
-     id="g12"
-     style="fill:#1a1a1a">
-    <use
-       xlink:href="#dNxOdswH"
-       id="use10"
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1"
-       x="0"
-       y="0"
-       width="100%"
-       height="100%" />
-  </g>
+  <path
+     style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12.80000019;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 621 687.66016 A 416.33899 416.33899 0 0 0 204.66016 1104 A 416.33899 416.33899 0 0 0 621 1520.3398 A 416.33899 416.33899 0 0 0 1037.3398 1104 A 416.33899 416.33899 0 0 0 621 687.66016 z M 621 799.93164 A 304.06778 304.06778 0 0 1 925.06836 1104 A 304.06778 304.06778 0 0 1 621 1408.0684 A 304.06778 304.06778 0 0 1 316.93164 1104 A 304.06778 304.06778 0 0 1 621 799.93164 z "
+     id="path15" />
 </svg>
